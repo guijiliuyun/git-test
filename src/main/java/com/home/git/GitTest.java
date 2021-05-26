@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("Hello java！");
         System.out.println("Hello World！");
         System.out.println("Hello Dream！");
-        System.out.println("Hello Dream！");
+        System.out.println("Hello PHP！");
+        System.out.println("Hello C！");
     }
 }
