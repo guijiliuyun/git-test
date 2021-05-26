@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Hello Dream！");
         System.out.println("Hello C！");
         System.out.println("Hello C++！");
+        System.out.println("haha");
     }
 }
